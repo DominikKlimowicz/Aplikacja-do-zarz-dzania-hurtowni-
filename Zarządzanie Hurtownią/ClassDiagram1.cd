@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zarządzanie_Hurtownią.Adres">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAgAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.BazaDanych" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAoAAAAABEAAAAAAIIAAAAAAADECAQFQGAA=</HashCode>
+      <FileName>BazaDanych.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.DodawanieMKP" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiBVAiAgLQAgABAAAGQAAAOTARAAAKZgAAMAABAAAA=</HashCode>
+      <FileName>DodawanieMKP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Klient">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Klient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Magazyn">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Magazyn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumericTextBox" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NumericTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Okno1" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAQAAAEQAAABAAAA=</HashCode>
+      <FileName>Okno1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Okno2" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBQAAEAACAAABAAIACAAAACAAAIAAIAAGAAIQEEAAA=</HashCode>
+      <FileName>Okno2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.OknoDodajProdukt" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACCAIADAAAADAAAACAoIBAAAEACAAAAAAAAA=</HashCode>
+      <FileName>OknoDodajProdukt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.OknoKlient" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xBACAIAhKgAERBAUADAAAAGAIIEEAgAgAAAAAHAIAE=</HashCode>
+      <FileName>OknoKlient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.OknoLogowania" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAACgAADAAAASAAAACAIAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>OknoLogowania.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.OknoMag" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFIBIAQgCAAADDAAASAAAICAIIDEAAAAEBAAAAYCoA=</HashCode>
+      <FileName>OknoMag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.OknoPracownik" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAABBIIACgAATDAAACIAABCGIA5AAqAAGABAACAIBA=</HashCode>
+      <FileName>OknoPracownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Osoba">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAIAAgAAAAAAAAAAAAAgIAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Produkt">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAgAggAAAA=</HashCode>
+      <FileName>Produkt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zarządzanie_Hurtownią.Program">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
